@@ -8,7 +8,6 @@ Whether you're looking to add meaningful downed states, realistic stabilization 
 - Localized damage handling for limbs (WIP)
 ## -------------------- PLANNED FEATURES -----------------------
 - Configurable instant death chance via CBA settings 
-- Modular design with optional features:
 - Downed self-interactions (e.g. self-revive, martyrdom)
 - Custom HP values per unit via CBA or init fields
 
